@@ -899,8 +899,8 @@
         <mxCell id="_mcRxjjjSgAuDNnsRff5-30" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Finance Office&amp;nbsp;&lt;/b&gt;.10&lt;br&gt;Port 1&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=0" parent="h02Y4UNwVWyTR7LeDXFe-1" vertex="1">
           <mxGeometry x="862" y="334" width="50" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_mcRxjjjSgAuDNnsRff5-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Corridor Gate Interior&amp;nbsp;&lt;/b&gt;.12&lt;br&gt;Port 11&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=0" parent="h02Y4UNwVWyTR7LeDXFe-1" vertex="1">
-          <mxGeometry x="727" y="334" width="63" height="23" as="geometry" />
+        <mxCell id="_mcRxjjjSgAuDNnsRff5-31" value="&lt;b style=&quot;font-size: 8px;&quot;&gt;Corridor Gate Interior&amp;nbsp;&lt;/b&gt;.12&lt;br&gt;Port 11&lt;br&gt;E0:50:8B:08:D5:A2" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=0" parent="h02Y4UNwVWyTR7LeDXFe-1" vertex="1">
+          <mxGeometry x="727" y="339" width="63" height="23" as="geometry" />
         </mxCell>
         <mxCell id="_mcRxjjjSgAuDNnsRff5-32" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Frontage Yard&amp;nbsp;&lt;/b&gt;.11&lt;br&gt;Port 3&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=0" parent="h02Y4UNwVWyTR7LeDXFe-1" vertex="1">
           <mxGeometry x="929" y="334" width="50" height="23" as="geometry" />
